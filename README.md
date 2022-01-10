@@ -22,6 +22,7 @@
 自分が訪れたコーヒーショップを共有したいときや、お店に貢献したいときなど。 新しいお店を知りたいときにも活用できます。
 
 ## 設計書
+https://docs.google.com/spreadsheets/d/1_gKk-ix1UPUygVIJH_R8W3HcaPqFoNhRRg5jL1y8_e0/edit?usp=sharing
 
 
 ## チャレンジ要素一覧
